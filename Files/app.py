@@ -62,8 +62,7 @@ def main():
             "It predicts the likelihood of lung cancer based on various factors.")
         st.write("Built by Ashith Gowda, Vinayak, Dechamma")
         st.write(
-            "GitHub Repository: https://github.com/ashith003/Lung-Cancer-Detection-APP")
-
+            "GitHub Repository: https://github.com/Ashith003/Lung-Cancer-prediction-using-ML")
     # Help Tab
     help_expander = st.sidebar.expander("Help")
     with help_expander:
